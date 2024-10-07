@@ -1,0 +1,17 @@
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\DbConnection.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\JsonException.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\JsonParsingException.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\LockUtils.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\LogicHandler.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\models\Domain.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\models\DomainState.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\models\Order.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\models\RegistrationStatus.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\models\User.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\requests\DomainConfirmRequest.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\requests\DomainLockingRequest.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\requests\DomainRenewRequest.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\resources\DomainResource.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\resources\OrderResource.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\resources\UserResource.java
+C:\Users\Filo\Desktop\progetto_SD\server-web\src\main\java\it\unimib\sd2024\responses\OrdersResponse.java
