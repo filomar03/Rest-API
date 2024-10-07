@@ -1,6 +1,5 @@
-# Progetto Sistemi Distribuiti 2023-2024 - API REST
-
-## `/domains`
+# API REST DEMO PROJECT
+## This repo contains just the server-side implementation of an university assignment (the other parts weren't developed directly by me), it does't work as a standalone, it is here just as a showcase.
 
 ### GET
 
